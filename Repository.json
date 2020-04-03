@@ -1,7 +1,7 @@
 {
 	"Releases":
 	[
-		{"Id": "BetterVendors", "Version": "1.0.4"},
+		{"Id": "BetterVendors", "Version": "1.0.5"},
     		{"Id": "TheLootChecklist", "Version": "1.0.1"}
   	]
 }
