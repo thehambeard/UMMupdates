@@ -1,7 +1,7 @@
 {
 	"Releases":
 	[
-		{"Id": "BetterVendors", "Version": "2.0.3"},
+		{"Id": "BetterVendors", "Version": "2.0.4"},
     		{"Id": "TheLootChecklist", "Version": "1.0.2"}
 		{"Id": "KingmakerLessRandom", "Version": "0.1.0} 
   	]
