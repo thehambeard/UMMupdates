@@ -1,8 +1,8 @@
 {
 	"Releases":
 	[
-		{"Id": "BetterVendors", "Version": "2.0.7"},
-    	{"Id": "TheLootChecklist", "Version": "1.0.2"},
+		{"Id": "BetterVendors", "Version": "2.0.8"},
+    		{"Id": "TheLootChecklist", "Version": "1.0.3"},
 		{"Id": "InventoryTweaks", "Version": "0.1.3"},
 		{"Id": "KingmakerLessRandom", "Version": "0.1.0"} 
   	]
